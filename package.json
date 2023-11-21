@@ -2,8 +2,8 @@
   "name": "syvarform",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Syvar-Tech.github.io/InternForm/",
-  "proxy": "https://Syvar-Tech.github.io/InternForm/",
+  "homepage": "https://syvar.com.np",
+  "proxy": "https://syvar.com.np",
   "scripts": {
     
     "dev": "next dev",
