@@ -18,7 +18,18 @@ const Openings = [
             'React'
         ],
         link: "https://forms.gle/fpy53a7N5SbM1Dgy8"
-    }
+    },
+    {
+        id: 2,
+        position: 'Backend Developer (Intern)',
+        tags: [
+            'Node js',
+            'JS',
+            'express js',
+            'mongo Db'
+        ],
+        link: "https://forms.gle/mcT7n2QkUVhzUr9Y8"
+    },
 ]
 
 export default Openings;

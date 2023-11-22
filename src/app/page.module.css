@@ -40,7 +40,7 @@
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  height: 275px;
+  height: auto;
   overflow-y: hidden;
 }
 
@@ -91,14 +91,12 @@
 
 @media only screen and (max-width: 700px) {
   .jobOpeningBox {
-    height: 360px;
+    height: auto;
   }
 }
 
 @media only screen and (max-width: 450px) {
-  .jobOpeningBox {
-    height: 400px;
-  }
+  
 
   .headingQuotation {
     font-size: 16px;
